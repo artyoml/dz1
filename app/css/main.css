@@ -178,6 +178,10 @@ body {
 	padding: 6px 0px;
 	margin-left: 83px;
 	color: white;
+	white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 150px;
 }
 
 .my-adress .adress-point-mail{
